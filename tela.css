@@ -1,0 +1,168 @@
+@charset "utf-8";
+
+
+@media screen and (max-width:600px) {
+
+
+    #ic {}
+
+    #nav1 {
+        border-radius: 0px;
+        margin: 0px;
+        padding-left: 200px;
+        padding-right: 200px;
+        width: 100%;
+    }
+
+    #nav {
+        display: none;
+    }
+
+    #img1 {
+        padding-left: 40px;
+    }
+
+    #carousel {
+        width: 100%;
+        height: 600px;
+        padding: 0px;
+    }
+
+    .carousel-item {
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 20px;
+        height: 700px;
+    }
+
+    #card {
+        display: block;
+        float: none;
+        padding-left: 20px;
+        margin-left: 0px;
+    }
+
+    #card1 {
+        float: none;
+        display: block;
+        padding-left: 20px;
+        margin-left: 0px;
+    }
+
+    #card2 {
+        border-radius: 20px;
+        padding-bottom: 8px;
+    }
+
+    #foto {
+        float: inline-end;
+        display: block;
+    }
+
+    #ft1 {
+        float: none;
+        display: block;
+        margin-left: 0px;
+        padding-left: 30px;
+        padding-right: 100px;
+    }
+
+    #ft2 {
+        float: none;
+        display: block;
+        padding-left: 30px;
+        padding-right: 100px;
+        margin: 0px;
+
+
+    }
+
+    #i1 {
+        width: 400px;
+        height: 200px;
+    }
+
+    #centro {
+        padding-top: 0px;
+        display: block;
+        float: none;
+    }
+
+    #titulo1 {
+        text-align: center;
+        padding-top: 0px;
+    }
+
+    #p1 {
+        text-align: center;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #link1 {
+        display: block;
+        float: none;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #section {
+        display: inline-block;
+        float: none;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+
+    #for1 {width:480px ;}
+
+    #for {
+        display: inline-block;
+        float: none;
+        margin-left: 0px;
+        padding-left: 30px;
+    }
+
+    #for2 {
+        display: block;
+        float: none;
+        margin-left: 0px;
+        padding-left: 10px;
+        width: 100px;
+    }
+
+    #for4 {
+        width: 400px;
+    }
+
+    #for5 {
+        padding-left: 100px;
+        padding-right: 100px;
+        margin-left: 100px;
+        margin-bottom: 50px;
+    }
+
+    #loc {
+        text-align: center;
+    }
+
+    #if1 {
+        display: block;
+        float: none;
+        margin-left: 0px;
+        padding-left: 0px;
+        padding-bottom: 0px;
+        width: 480px;
+
+    }
+
+    #foot1 {
+        padding-bottom: 50px;
+        display: block;
+    }
+
+    #letra1 {
+        text-align: center;
+        padding-left: 60px;
+    }
+
+}
